@@ -1,7 +1,7 @@
 # word-co-occurrence
 Determining if word co-occurrence in text files is fluke or real.
 
-Word Co-occurrence analysis is widely used in various forms of research and aims to find similarities between word pairs and patterns. In this lab, we use nltk - natural language tool kit, pandas, and NumPy libraries to analyze two .txt files and understand the co-occurrence of words. 
+Word Co-occurrence analysis is widely used in various forms of research and aims to find similarities between word pairs and patterns. Here, we use nltk - natural language tool kit, pandas, and NumPy libraries to analyze two .txt files and understand the co-occurrence of words. 
 
 By using natural language processing to analyze these texts, we dwell into bigrams. Biagrams are two words that come together in a corpus. We first split the .txt file into tokens. Then, we split each token into 2, creating bigrams.
              
